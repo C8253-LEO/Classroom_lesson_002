@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    font-size: 6em;
+}
+
+.fullscreen{
+    width: 100%;
+    height: 100vh;
+    padding: 40vh;
+
+}
+.a {
+    background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/vwa.jpg') center/cover;
+  }
+  .b {
+    background: url('https://cdn.pixabay.com/photo/2021/01/29/17/17/sky-5961642_960_720.jpg') center/cover ;
+  }
+  .c {
+    background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/vwc.jpg') center/cover;
+  }
+  .d {
+      background: url('https://cdn.pixabay.com/photo/2015/04/23/21/59/tree-736875_960_720.jpg') center/cover;
+  }
